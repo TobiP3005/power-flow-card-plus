@@ -46,6 +46,7 @@ export interface PowerFlowCardPlusConfig extends LovelaceCardConfig {
     };
     individual1?: IndividualDeviceType;
     individual2?: IndividualDeviceType;
+    individual3?: IndividualDeviceType;
   };
   dashboard_link?: string;
   dashboard_link_label?: string;

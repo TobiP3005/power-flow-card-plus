@@ -30,4 +30,6 @@ export type EntityType =
   | "individual1"
   | "individual1Secondary"
   | "individual2"
-  | "individual2Secondary";
+  | "individual2Secondary"
+  | "individual3"
+  | "individual3Secondary";
